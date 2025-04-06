@@ -1,4 +1,5 @@
 # Java
+
 If you plan to develop your entry in Java you need to download and install the latest [Java 8 Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 The sample bot also uses Maven for building and dependency management - detailed instructions for installing it are provided below.
